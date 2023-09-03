@@ -1,1 +1,1 @@
-from .classroomAPI import printCourses
+from .classroomAPI import *
